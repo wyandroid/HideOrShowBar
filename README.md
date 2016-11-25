@@ -1,0 +1,2 @@
+# HideOrShowBar
+仿掘金上拉隐藏导航栏，下拉显示导航栏。导航栏是用TabActivity实现，方便Activity之间参数传递。同时自定义SwipeRefreshLayout实现上拉加载下拉刷新功能。
